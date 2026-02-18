@@ -38,7 +38,7 @@ It provides deep insights into **athlete participation, gender distribution, med
 
 ## 📸 Dashboard Preview
 
-![Olympic Dashboard Screenshot](images/preview.gif)
+![Olympic Dashboard Screenshot](images/preview.png)
 
 ---
 
